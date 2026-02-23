@@ -2,6 +2,7 @@
 - Static website
 - This is just a demo
 - Spaghetti Code
+- :)
 
 ```
  _     _             _ 
