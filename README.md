@@ -2,7 +2,7 @@
 - Static website
 - This is just a demo
 - Spaghetti Code
-- :) 𖣘
+- :) 𖣘 **%$%**
 
 ```
  _     _             _ 
